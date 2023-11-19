@@ -6,7 +6,7 @@ package javalatihan;
 
 import java.util.Scanner;
 
-/**
+/**  
  *
  * @author Acer
  */

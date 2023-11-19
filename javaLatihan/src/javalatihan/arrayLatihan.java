@@ -5,7 +5,7 @@
 package javalatihan;
 
 /**
- *
+ *  
  * @author Acer
  */
 public class arrayLatihan {
