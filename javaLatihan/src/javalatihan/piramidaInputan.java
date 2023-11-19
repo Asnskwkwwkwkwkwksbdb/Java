@@ -7,7 +7,7 @@ package javalatihan;
 import java.util.Scanner;
 
 /**
- *   
+ *      
  * @author Acer
  */
 public class piramidaInputan { 
