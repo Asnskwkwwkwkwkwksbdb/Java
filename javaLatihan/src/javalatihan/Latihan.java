@@ -16,7 +16,7 @@ import java.util.StringJoiner;
 public class Latihan {
 
     public static void main(String[] args) {
-
+   
         Scanner input = new Scanner(System.in);
 
         ArrayList<Integer> array = new ArrayList<>();
